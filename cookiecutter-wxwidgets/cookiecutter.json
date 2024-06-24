@@ -1,0 +1,6 @@
+{
+  "project_name": "WxWidgets Quickstart Application",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "A WxWidgets quickstart application template.",
+  "project_short_name": "MyWidgets"
+}

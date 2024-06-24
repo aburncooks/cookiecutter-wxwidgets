@@ -1,0 +1,11 @@
+gui:
+  icon: myicon.png
+logger:
+  handlers:
+    stream:
+      level: INFO
+      bubble: false
+    timed_rotating_file:
+      level: INFO
+      bubble: true
+      date_format: '%Y-%m-%d'
